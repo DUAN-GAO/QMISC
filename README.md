@@ -112,7 +112,7 @@ To guide the user in the usage of QMISC, we will make use of files that you can 
 
 #### QMISC options
 
-<details>
+<!-- <details> -->
 <!-- <summary>List of all QMISC options</summary> -->
 
 <!-- <pre>usage: QMISC [-h] (-pdb PDB | -mat MAT | -v) -tomap TOMAP [-proj PROJ] [-res RES] [-rad RAD] [-d D] [-s S] [--nosmooth] [--png] [--keep]
@@ -199,7 +199,7 @@ with:
 [Go to the top](#Table-of-contents)
 
 - If you find a bug or have a suggestion for a new feature, please report it via an [issue](https://github.com/DUAN-GAO/QMISC/issues)
-- If you find QMISC useful, consider starring the repository or donate via bitcoin address 0xf815a71225f9935cde182c3ef555252bda31eef8 (BNB Smart Chain)
+- If you find QMISC useful, consider starring the repository or donate via `Bitcoin` bitcoin address 0xf815a71225f9935cde182c3ef555252bda31eef8 (BNB Smart Chain)
 
 
 
