@@ -113,7 +113,7 @@ To guide the user in the usage of QMISC, we will make use of files that you can 
 #### QMISC options
 
 <details>
-<summary>List of all QMISC options</summary>
+<!-- <summary>List of all QMISC options</summary> -->
 
 <!-- <pre>usage: QMISC [-h] (-pdb PDB | -mat MAT | -v) -tomap TOMAP [-proj PROJ] [-res RES] [-rad RAD] [-d D] [-s S] [--nosmooth] [--png] [--keep]
                [--docker] [--pqr PQR] [-ff FF] [-verbose VERBOSE]
